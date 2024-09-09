@@ -53,7 +53,7 @@ Clone this repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/SIDPAWW/obstacle-avoidance-uav.git
+git clone https://github.com/SIDPAWW/Kat_project.git
 
 
 Open MATLAB and navigate to the project folder.
